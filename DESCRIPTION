@@ -1,0 +1,11 @@
+Package: namely
+Title: An Internal Package for Working with the Namely API
+Version: 0.0.1
+Author: Eric A. Knudsen [aut, cre],
+Maintainer: Eric A. Knudsen <eric.knudsen@namely.com>
+Description: A collection of People Analytics for leveraging the Namely API.
+Depends: R (>= 3.3.2), httr, plyr, jsonlite
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.0.9000
